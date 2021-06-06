@@ -115,4 +115,3 @@ LABEL io.qaninja.preserve-entrypoint=true
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
 CMD ["/bin/sh"]
-
